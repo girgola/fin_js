@@ -98,7 +98,7 @@ p {
 
 .banner {
     position: relative;
-    top: 0;
+    top: 32px;
     width: 100%;
     min-height: 100vh;
     background: url(poto/auz.jpg);
